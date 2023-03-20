@@ -32,6 +32,9 @@ The script has been tested running under Python 3.5.2, with the following packag
 - `networkx==2.1`
 - `tensorflow-gpu==1.6.0`
 
+
+
+
 In addition, CUDA 9.0 and cuDNN 7 have been used.
 
 ## Reference
